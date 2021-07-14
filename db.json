@@ -7,6 +7,22 @@
     {
       "content": "the best featrure ever <3",
       "id": 2
+    },
+    {
+      "content": "new note",
+      "id": 3
+    },
+    {
+      "content": "new note",
+      "id": 4
+    },
+    {
+      "content": "new note",
+      "id": 5
+    },
+    {
+      "content": "new note",
+      "id": 6
     }
   ],
   "persons": [
@@ -19,6 +35,26 @@
       "name": "kaltsoon",
       "number": "045-2323456",
       "id": 2
+    },
+    {
+      "name": "Eddy",
+      "number": "Perez",
+      "id": 3
+    },
+    {
+      "name": "Eddy",
+      "number": "Perez",
+      "id": 4
+    },
+    {
+      "name": "Eddy",
+      "number": "Perez",
+      "id": 5
+    },
+    {
+      "name": "Eddy",
+      "number": "Perez",
+      "id": 6
     }
   ]
 }
